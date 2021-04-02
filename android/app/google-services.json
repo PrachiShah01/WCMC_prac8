@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "911927409021",
+    "project_id": "prac8-44dd4",
+    "storage_bucket": "prac8-44dd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911927409021:android:784b9848255a5a17433414",
+        "android_client_info": {
+          "package_name": "com.example.prac8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911927409021-tjd9ddefuf4n1kc93k8k7o8fbd4hengu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Ysi8iEnuEyW5r3TFF2V5OlA2LqN2pKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911927409021-tjd9ddefuf4n1kc93k8k7o8fbd4hengu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
